@@ -219,13 +219,4 @@ A C++ utility class for handling date operations, including date arithmetic, val
 📧 [My Email](mailto:9abdelhamid080@gmail.com)
 
 ---
-
-## 🔗 GitHub Repository
-
-```
-[Add GitHub repository link here]
-```
-
----
-
-This utility project under the `Project_1_Utility_Library` solution is flexible and extendable. Great for C++ learners, utility library designers, and developers needing reusable helper functions.#
+#### This utility project under the `Project_1_Utility_Library` solution is flexible and extendable. Great for C++ learners, utility library designers, and developers needing reusable helper functions.
